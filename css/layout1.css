@@ -1,0 +1,12 @@
+.header{
+  grid-column: 1/4;  
+}
+.menu{
+    grid-column: 1/2;
+}
+.body{
+    grid-column: 2/4;
+}
+.footer{
+    grid-column: 1/4;
+}

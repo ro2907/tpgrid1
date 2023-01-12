@@ -1,0 +1,18 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 20vh 70vh 10vh;
+    /* gap: 30px; */
+}
+.header{
+    background-color: blue;
+}
+.menu{
+    background-color: blueviolet;
+}
+.body{
+    background-color: aqua;
+}
+.footer{
+    background-color: green;
+}

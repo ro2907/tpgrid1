@@ -1,0 +1,16 @@
+.grid{
+  grid-template-rows: 20vh 10vh 60vh 10vh;  
+  grid-template-columns: 1fr;
+}
+/* .header {
+    grid-column: 1/4;  
+  }
+  .menu{
+      grid-column: 1/4;
+  }
+  .body{
+      grid-column: 1/4;
+  }
+  .footer{
+      grid-column: 1/4;
+  } */
